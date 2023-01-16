@@ -29,6 +29,9 @@ https://raw.githubusercontent.com/weiyesing/QuantumultX/GenMuLu/FenLiuGuiZe/Wang
 
 圈X右下风车-点击—规则资源—然后点击右上角—资源路径—引用即可—需要打开解析器——以及配置需要代理！
 
+去开屏广告
+
+https://raw.githubusercontent.com/weiyesing/QuantumultX/GenMuLu/ChongXieGuiZe/QuGuangGao/To%20advertise.conf
 
 醒图+剪映会员+轻颜相机
 
