@@ -14,11 +14,11 @@
 
 https://raw.githubusercontent.com/weiyesing/QuantumultX/GenMuLu/FenLiuGuiZe/QuGuangGao/QuGuangGao.txt 
 
-国际网站
+国际流媒体解锁
 
 https://raw.githubusercontent.com/weiyesing/QuantumultX/GenMuLu/FenLiuGuiZe/WangZhanFenLiu/GuoJiWangZhan
 
-国外网站
+国外网站定向
 
 https://raw.githubusercontent.com/weiyesing/QuantumultX/GenMuLu/FenLiuGuiZe/WangZhanFenLiu/GuoWaiWangZhan
 
